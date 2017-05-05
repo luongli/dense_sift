@@ -3,7 +3,7 @@ $ make
 
 # Run
 ``` bash
-$ ./dense_sift [path_to_images_folder] [number_of_kmean_iterator]
+$ ./dense_sift [path_to_images_folder] [number_of_kmean_iterators]
 ```
 The output will be writen into dict.csv file.
 
